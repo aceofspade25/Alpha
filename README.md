@@ -1,2 +1,4 @@
 # Alpha
-My first GitHub Repository
+
+My first repository
+
